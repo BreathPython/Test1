@@ -6,7 +6,7 @@ printf "\n"
 dependencies() {
 
 
-command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
+command -v php > /dev/null 2>&1 || { echo >&2 "Php install nahe hai. lehaza php package install kre or dobara koahish kren."; exit 1; }
  
 
 
